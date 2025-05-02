@@ -1,4 +1,8 @@
-## Hi there 👋
+# 👋 Hi there! I'm Clare
+
+My background is in Electrical Engineering, but what really excites me is writing code that brings hardware to life! I'm currently working on a custom remote interface for Chromecast devices designed to make media access easier for seniors in care homes, using Wi-Fi to connect to the devices over the local network.
+
+I've worked extensively in Python, Java, and C++, focusing on IoT development, test automation, and quality assurance in embedded environments.
 
 <!--
 **clarech-23/clarech-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
