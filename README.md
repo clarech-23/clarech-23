@@ -1,6 +1,6 @@
-# 👋 Hi there! I'm Clare
+## 👋 Hi there! I'm Clare
 
-My background is in Electrical Engineering, but what really excites me is writing code that brings hardware to life! I'm currently working on a custom remote interface for Chromecast devices designed to make media access easier for seniors in care homes, using Wi-Fi to connect to the devices over the local network.
+I’m passionate about writing code that brings hardware to life! As an Electrical Engineering graduate, I love building embedded systems that make a real-world impact. Currently, I’m developing a custom remote interface for Chromecast devices to improve media access for seniors in care homes, using Wi-Fi to communicate with the devices over the local network.
 
 I've worked extensively in Python, Java, and C++, focusing on IoT development, test automation, and quality assurance in embedded environments.
 
